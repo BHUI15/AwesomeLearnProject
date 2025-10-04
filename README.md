@@ -8,3 +8,4 @@ For learning how to use github
 
 ## About Me
 I aim to become a full stack developer... I love C++ and python!
+Today I leaned new things about GIThub from L6 Appentice 
